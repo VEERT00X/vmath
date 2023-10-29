@@ -1,3 +1,6 @@
+[![.github/workflows/gh-publish.yml](https://github.com/VEERT00X/vmath/actions/workflows/gh-publish.yml/badge.svg)](https://github.com/VEERT00X/vmath/actions/workflows/gh-publish.yml)
+[![.github/workflows/npm-publish.yml](https://github.com/VEERT00X/vmath/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/VEERT00X/vmath/actions/workflows/npm-publish.yml)
+
 # @veert00x/vmath - Basic Math and Geometry Functions
 
 **@veert00x/vmath** is a lightweight JavaScript module that provides a set of basic math and geometry functions created by the talented developer **@VEERT00X**. This module is designed to simplify common mathematical operations and calculations in your JavaScript projects.
