@@ -1,0 +1,25 @@
+{
+  "name": "@veert00x/vmath",
+  "version": "1.0.0",
+  "description": "basic math and geometry functions made by @VEERT00X",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VEERT00X/vmath.git"
+  },
+  "keywords": [
+    "Math"
+  ],
+  "author": "@VEERT00X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VEERT00X/vmath/issues"
+  },
+  "homepage": "https://github.com/VEERT00X/vmath#readme"
+}
