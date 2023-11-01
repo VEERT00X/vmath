@@ -13,9 +13,10 @@ const { subtract, subtraction } = BasicSub;
 const { multiply, multiplication } = BasicMul;
 const { divide, division } = BasicDiv;
 
-// 2D
+// Dimensional
 
 const {Plane} = require('./2D/Plane.js');
+const {Solid} = require('./3D/Solid.js');
 
 module.exports = {
     sum,
@@ -31,8 +32,9 @@ module.exports = {
     divide,
     division,
     Plane,
+    Solid,
 };
 
 
 // Path: package/index.js
-// version 1.1.0-release
+// version 1.2.0-release
