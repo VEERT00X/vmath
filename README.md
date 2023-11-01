@@ -37,12 +37,16 @@ This will give you access to a wide range of math and geometry functions, includ
 
 ## Functions
 
+Examples of the functions available in the @veert00x/vmath module include:
+
 * `sum` and `summation` : Functions to calculate the sum of an array of numbers.
 * `avg` and `average` : Functions to calculate the average of two or more numbers or array of numbers.
 * `med` and `median` : Functions to find the median of two or more numbers or array of numbers.
 * `subtract` and `subtraction` : Functions for subtracting two or more numbers or array of numbers.
 * `multiply` and `multiplication` : Functions for multiplying two or more numbers or array of numbers.
 * `divide` and `division`: Functions for dividing two or more numbers or array of numbers.
+
+To view a comprehensive list of functions available in the @veert00x/vmath module, please refer to the [wiki](https://github.com/VEERT00X/vmath/wiki)
 
 ## Examples
 
