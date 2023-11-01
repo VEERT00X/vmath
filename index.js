@@ -1,3 +1,4 @@
+// Basic
 const BasicSum = require('./Basic/summation.js');
 const BasicAvg = require('./Basic/average.js');
 const BasicMed = require('./Basic/median.js');
@@ -12,6 +13,10 @@ const { subtract, subtraction } = BasicSub;
 const { multiply, multiplication } = BasicMul;
 const { divide, division } = BasicDiv;
 
+// 2D
+
+const {Plane} = require('./2D/Plane.js');
+
 module.exports = {
     sum,
     summation,
@@ -24,7 +29,8 @@ module.exports = {
     multiply,
     multiplication,
     divide,
-    division
+    division,
+    Plane,
 };
 
 
